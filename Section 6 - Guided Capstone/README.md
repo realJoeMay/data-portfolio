@@ -1,4 +1,4 @@
-# Data Science Project: Predictive Customer Churn Analysis
+# Data Science Project: Predictive Ski Resort Ticket Price Analysis
 
 ## Overview
 
