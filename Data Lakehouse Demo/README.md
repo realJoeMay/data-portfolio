@@ -23,10 +23,13 @@ This project comes from the Udacity Nanodegree: Data Engineering with AWS.
 ### SQL Scripts:
 
 **customer_landing.sql:** Glue SQL script for creating a Glue Table for customer landing zone.
+
 **accelerometer_landing.sql:** Glue SQL script for creating a Glue Table for accelerometer landing zone.
 
 ### Screenshots:
 
 **customer_landing.png:** Screenshot of Athena query result for the customer_landing Glue Table.
+
 **accelerometer_landing.png:** Screenshot of Athena query result for the accelerometer_landing Glue Table.
+
 **customer_trusted.png:** Screenshot of Athena query result for the customer_trusted Glue Table.
