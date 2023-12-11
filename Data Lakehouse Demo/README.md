@@ -11,9 +11,13 @@ This project comes from the Udacity Nanodegree: Data Engineering with AWS.
 ### Scripts:
 
 **custom_landing_to_trusted.py:** Python script using Spark to sanitize and store customer records in the Trusted Zone as a Glue Table called customer_trusted.
+
 **accelerometer_landing_to_trusted.py:** Python script using Spark to sanitize and store accelerometer readings in the Trusted Zone as a Glue Table called accelerometer_trusted.
+
 **customer_trusted_to_curated.py:** Python script using Spark to create a curated zone Glue Table named customers_curated that includes customers with accelerometer data who agreed to share their data for research.
+
 **step_trainer_trusted.py:** Python script using Spark to read Step Trainer IoT data stream from S3 and populate a Trusted Zone Glue Table called step_trainer_trusted.
+
 **machine_learning_curated.py:** Python script using Spark to create an aggregated table with Step Trainer and accelerometer readings for customers who agreed to share their data, stored in a Glue Table called machine_learning_curated.
 
 ### SQL Scripts:
