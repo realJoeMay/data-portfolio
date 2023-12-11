@@ -15,4 +15,4 @@ Apache Airflow is used as the orchestrator for the ETL pipeline. It allows you t
 Amazon S3 is used as the source for raw data files. The pipeline retrieves these files for further processing.
 
 ### 3. AWS Redshift
-AWS Redshift serves as the data warehouse where staged data is loaded and transformed into a star database format.
+AWS Redshift serves as the data warehouse where staged data is loaded and transformed into a star schema.
